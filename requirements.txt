@@ -1,0 +1,10 @@
+faiss-cpu
+langchain
+PyMuPDF
+PyPDF2
+mlflow
+fastapi
+streamlit
+crewai
+uvicorn
+pydantic
