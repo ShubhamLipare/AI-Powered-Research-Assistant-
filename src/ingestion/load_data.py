@@ -25,6 +25,3 @@ def load_pdf(path):
     
     except Exception  as e:
         raise CustomException(e,sys)
-    
-if __name__=="__main__":
-    text=load_pdf("G:\Resume projects\std4-bb-evs2.pdf")
