@@ -25,3 +25,5 @@ def load_pdf(path):
     
     except Exception  as e:
         raise CustomException(e,sys)
+    
+

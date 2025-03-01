@@ -23,6 +23,10 @@ folder_list =[
     f"ui/app.py",
     f".github/workflows/ci_cd.yml",
     f"requirements.txt",
+    f"src/tasks/__init__.py",
+    f"src/tasks/researcher_task.py",
+    f"src/tasks/summarizer_task.py",
+    f"src/tasks/critic_task.py",
 ]
 
 
